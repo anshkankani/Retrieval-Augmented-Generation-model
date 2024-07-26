@@ -1,0 +1,1 @@
+{"lc": 1, "type": "constructor", "id": ["langchain", "schema", "document", "Document"], "kwargs": {"page_content": "the entity against \nthe specific \ncommitments, \ngoals, and targets \nalong-with reasons \nin case the same \nare not met.", "metadata": {"source": "/content/drive/MyDrive/pidilite/Annual-Report-2022-2023.pdf", "page": 79}, "type": "Document"}}

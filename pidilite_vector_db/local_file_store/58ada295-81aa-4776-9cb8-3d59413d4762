@@ -1,0 +1,1 @@
+{"lc": 1, "type": "constructor", "id": ["langchain", "schema", "document", "Document"], "kwargs": {"page_content": "Company, is a Whole-time Director. The Company has not granted any Stock option to any of its Non-Executive Directors.", "metadata": {"source": "/content/drive/MyDrive/pidilite/Annual-Report-2022-2023.pdf", "page": 176}, "type": "Document"}}

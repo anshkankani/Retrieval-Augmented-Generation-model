@@ -1,0 +1,1 @@
+{"lc": 1, "type": "constructor", "id": ["langchain", "schema", "document", "Document"], "kwargs": {"page_content": "implementation of audit recommendations, if any,  \nand adequacy of internal controls.", "metadata": {"source": "/content/drive/MyDrive/pidilite/Annual-Report-2022-2023.pdf", "page": 47}, "type": "Document"}}

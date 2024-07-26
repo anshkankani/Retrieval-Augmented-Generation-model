@@ -1,0 +1,1 @@
+{"lc": 1, "type": "constructor", "id": ["langchain", "schema", "document", "Document"], "kwargs": {"page_content": "Total Current Liabilities 2191.43 1863.04 \nTotal Liabilities 2701.42 2394.67 \nTOTAL EQUITY AND LIABILITIES 9213.91 8738.37", "metadata": {"source": "/content/drive/MyDrive/pidilite/Q2-FY23-Results-uploaded.pdf", "page": 4}, "type": "Document"}}

@@ -1,0 +1,1 @@
+{"lc": 1, "type": "constructor", "id": ["langchain", "schema", "document", "Document"], "kwargs": {"page_content": "c) Other Services  0.60  0.69 \nd) Reimbursement of Expenses  0.02  0.02 \nTOTAL  3.03  3.06", "metadata": {"source": "/content/drive/MyDrive/pidilite/Annual-Report-2022-2023.pdf", "page": 232}, "type": "Document"}}

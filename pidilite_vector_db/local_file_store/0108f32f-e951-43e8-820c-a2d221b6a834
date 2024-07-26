@@ -1,0 +1,1 @@
+{"lc": 1, "type": "constructor", "id": ["langchain", "schema", "document", "Document"], "kwargs": {"page_content": "10 YEARS\u2019  \nFINANCIAL  \nPERFORMANCE", "metadata": {"source": "/content/drive/MyDrive/pidilite/Annual-Report-2022-2023.pdf", "page": 38}, "type": "Document"}}
